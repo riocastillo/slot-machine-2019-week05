@@ -1,24 +1,14 @@
-# 🎰 Week05 Bootcamp2019 Project: Slot Machine
+<img src="slotshot.png" alt="screenshot of slot machine game">
 
-### Goal: Build a Simple Slot Machine
+## Slot Machine
+This is a project where users can enter a bet amount, spin the slotmachine, and receive a randomized pairing of the reels. Users will be able to see the amount betted either subtracted or added to their total monies. Users will also be able to see if they won or lost.
 
-Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
+Link to project:
 
-### How to submit your code for review:
+## How It's Made:
+Tech used: HTML, CSS, JavaScript
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+This project was really fun to make and conceptualize. My entire family lives and breathes for gambling, so it felt cute to take a step back and think, "wow someday I can engineer all the things that were apart of my family's experience in this country." 
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Lessons Learned:
+I really wanted to learn how to rotate the slots, but I could not figure it out. I was dissapointed in that inability, but very much looking forward to attempting that function for the next project. 
