@@ -2,8 +2,8 @@
 
 ## Slot Machine
 This is a project where users can enter a bet amount, spin the slotmachine, and receive a randomized pairing of the reels. Users will be able to see the amount betted either subtracted or added to their total monies. Users will also be able to see if they won or lost.
-
-Link to project:
+<p></p>
+Link to project: https://rios-slot-machine.netlify.app
 
 ## How It's Made:
 Tech used: HTML, CSS, JavaScript
